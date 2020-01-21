@@ -1,6 +1,8 @@
+# This is not maintained as it was a class project from 2015. Not affiliated with Pixieset.
+
 # Twinkieset
 
-Live: [twinkieset.com](http://www.twinkieset.com/)
+Live: [twinkieset.com](http://twinkieset.karenling.net)
 
 #### Splash/landing Page
 <img src="http://images.karenling.net/aa/readme/01.png" width="33%"><img src="http://images.karenling.net/aa/readme/02.png" width="33%"><img src="http://images.karenling.net/aa/readme/03.png" width="33%">
